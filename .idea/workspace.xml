@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../Aurea/CodeCache" value="2958274062000" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/codecache-backend" value="7396574370000" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/codeserver-entity-api" value="2978501312000" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/codeserver/codeserver-api" value="2968283858000" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/codeserver/source-api" value="2968283860000" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/codeserver2" value="2972928044000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/aurea-codefix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/devfactory-qe-services" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/devspaces-test/cs/devfactory-codeserver-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/df-awa-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/performance_test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/DevFactory/science-fair" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aurea/aurea-gradle-coverage-check" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../devfactory-pca-toolset/jira-automation" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1278" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/Applications/VisualVM.app/Contents/Resources/visualvm/bin/visualvm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
